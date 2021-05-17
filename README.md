@@ -1,0 +1,2 @@
+# netfunnelBypassTool
+Disable NETFunnel
