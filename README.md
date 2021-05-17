@@ -1,2 +1,2 @@
 # netfunnelBypassTool
-Disable NETFunnel
+Disable NETFunnel by TemperMonkey.
